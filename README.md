@@ -49,7 +49,7 @@ I suck shit at lua and I'm not super familiar with the built-in methods. Right n
 - "Ketsui",
 - "Ketsui: Kizuna Jigoku Tachi Extra", 
 - "ケツイ",
-- "ケツイ ~絆地獄たち~ EXTRA",
+- "ケツイ $HOME絆地獄たち$HOME EXTRA",
 - "Mamoru-Kun", 
 - "Mamorukun Curse!", 
 - "まもるクンは呪われてしまった!",
