@@ -10,7 +10,15 @@ local gamesToFilter = {"BulletSoul", "Bullet Soul", "Bullet Soul Infinite Burst"
                        "Muchi Muchi Pork! & Pink Sweets", "Mushihimesama", "Mushihimesama Futari",
                        "DoDonPachi: Resurrection", "虫姫さまふたり", "虫姫さま", "Raiden IV (NA)",
                        "Raiden IV (JAP)", "Dodonpachi: DaiOuJou Black Label Extra",
-                       "Dodonpachi DaiOuJou Black Label Extra", "Mamorukun Curse!", "Under Defeat HD (JP)", "Under Defeat HD: Deluxe Edition"}
+                       "Dodonpachi DaiOuJou Black Label Extra", "Mamorukun Curse!", "Under Defeat HD (JP)",
+                       "Under Defeat HD: Deluxe Edition", "バレットソウル", "バレットソウル弾魂", "バレットソウルインフィニットバースト",
+                       "怒首領蜂大復活ブラックレーベル", "怒首領蜂大復活ブラックレーベル", "Dodonpachi:DaiFukkatsu", "怒首領蜂大復活",
+                       "怒首領蜂大復活", "怒首領蜂大復活Ver.1.5", "怒首領蜂大往生ブラックレーベルEXTRA", "怒首領蜂大往生ブラックレーベルEXTRA",
+                       "怒首領蜂最大往生", "怒首領蜂最大往生", "ESCHATOS", "エスカトス", "エスプガルーダIIブラックレーベル",
+                       "エスプガルーダIIブラックレーベル", "Ketsui", "ケツイ", "ケツイ~絆地獄たち~EXTRA", "まもるクンは呪われてしまった!",
+                       "むちむちポーク！＆ピンクスゥイーツ", "むちむちポーク&ピンクスゥイーツ", "雷電IV", "雷電IV", "ライデンファイターズエイシズ",
+                       "ライデンファイターズエイシズ", "式神の城III", "式神の城III", "シューティングラブ。200X", "シューティングラブ。10周年", 
+                       "シューティングラブ。コレクション", "アンダーディフィートHD", "アンダーディフィート HD"}
 
 local function IsTateable(Content, collection)
     for _, str in ipairs(collection) do
