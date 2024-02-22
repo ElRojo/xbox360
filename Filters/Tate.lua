@@ -12,6 +12,7 @@ local gamesToFilter = {"BulletSoul", "Bullet Soul", "Bullet Soul Infinite Burst"
                        "Raiden IV (JAP)", "Dodonpachi: DaiOuJou Black Label Extra",
                        "Dodonpachi DaiOuJou Black Label Extra", "Mamorukun Curse!", "Under Defeat HD (JP)",
                        "Under Defeat HD: Deluxe Edition", "バレットソウル", "バレットソウル弾魂", "バレットソウルインフィニットバースト",
+                       "バレット ソウル", "バレット ソウル 弾魂", "バレット ソウル インフィニットバースト",
                        "怒首領蜂大復活ブラックレーベル", "怒首領蜂大復活ブラックレーベル", "Dodonpachi:DaiFukkatsu", "怒首領蜂大復活",
                        "怒首領蜂大復活", "怒首領蜂大復活Ver.1.5", "怒首領蜂大往生ブラックレーベルEXTRA", "怒首領蜂大往生ブラックレーベルEXTRA",
                        "怒首領蜂最大往生", "怒首領蜂最大往生", "ESCHATOS", "エスカトス", "エスプガルーダIIブラックレーベル",
