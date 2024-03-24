@@ -95,6 +95,11 @@ I suck shit at lua and I'm not super familiar with the built-in methods. Right n
 
 # Changelog
 
+## tate_v1.0.1-beta.xzp
+
+- Browse menu has been rotated
+- Small changes throughout
+
 ## tate_v1.0.0-beta.xzp
 
 - Most main menus are turned, some are not, though. This is a pretty stable release but not everything has been rotated. The menus that aren't rotated should be usable though.
